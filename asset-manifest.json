@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hw-24-axios-master-degree/static/css/main.dd8f0a04.css",
+    "main.js": "/hw-24-axios-master-degree/static/js/main.a5bf2681.js",
+    "static/media/foodPhoto.png": "/hw-24-axios-master-degree/static/media/foodPhoto.1869efe11eed99b0f914.png",
+    "static/media/Group.svg": "/hw-24-axios-master-degree/static/media/Group.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/hw-24-axios-master-degree/index.html",
+    "static/media/plusAdd.svg": "/hw-24-axios-master-degree/static/media/plusAdd.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "static/media/plus.svg": "/hw-24-axios-master-degree/static/media/plus.5e2025a96ba73c4c7c15f2ed65f9ccd4.svg",
+    "static/media/minus.svg": "/hw-24-axios-master-degree/static/media/minus.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.dd8f0a04.css.map": "/hw-24-axios-master-degree/static/css/main.dd8f0a04.css.map",
+    "main.a5bf2681.js.map": "/hw-24-axios-master-degree/static/js/main.a5bf2681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8f0a04.css",
+    "static/js/main.a5bf2681.js"
+  ]
+}
